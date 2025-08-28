@@ -1,2 +1,1 @@
-*.data filter=lfs diff=lfs merge=lfs -text
 PSF[[:space:]]Build[[:space:]]WebGL.data filter=lfs diff=lfs merge=lfs -text
