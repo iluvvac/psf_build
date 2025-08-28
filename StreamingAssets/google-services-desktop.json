@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167300723274",
+    "project_id": "psf-multiplayer",
+    "storage_bucket": "psf-multiplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167300723274:android:d6e333ca0662806697acb3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PSFMultiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjh8iQQwCBnltdhVm_RA1COFnsi1rfBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
